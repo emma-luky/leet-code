@@ -7,3 +7,5 @@ Remove Duplicates from Sorted Array II
 Majority Element  
 Rotate Array  
 Best Time to Buy and Sell Stock
+## Two Pointers
+Valid Palindrome
