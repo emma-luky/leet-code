@@ -11,3 +11,5 @@ Best Time to Buy and Sell Stock
 Valid Palindrome
 ## Sliding Window
 Longest Substring Without Repeating Characters
+## HashMap
+Two Sum
