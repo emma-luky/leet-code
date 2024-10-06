@@ -6,8 +6,9 @@ Remove Duplicates from Sorted Array
 Remove Duplicates from Sorted Array II  
 Majority Element  
 Rotate Array  
-Best Time to Buy and Sell Stock
-Best Time to Buy and Sell Stock II
+Best Time to Buy and Sell Stock  
+Best Time to Buy and Sell Stock II  
+Jump Game
 ## Two Pointers
 Valid Palindrome
 ## Sliding Window
