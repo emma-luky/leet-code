@@ -9,10 +9,11 @@ Rotate Array
 Best Time to Buy and Sell Stock  
 Best Time to Buy and Sell Stock II  
 Jump Game
-Jump Game II
+Jump Game II  
 H-index
 ## Two Pointers
-Valid Palindrome
+Valid Palindrome  
+Is Subsequence
 ## Sliding Window
 Longest Substring Without Repeating Characters
 ## HashMap
