@@ -10,7 +10,8 @@ Best Time to Buy and Sell Stock
 Best Time to Buy and Sell Stock II  
 Jump Game
 Jump Game II  
-H-index
+H-Index  
+Insert Delete GetRandom O(1)
 ## Two Pointers
 Valid Palindrome  
 Is Subsequence
