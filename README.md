@@ -21,3 +21,5 @@ Longest Substring Without Repeating Characters
 ## HashMap
 Ransom Note  
 Two Sum
+## Intervals
+Summary Ranges
