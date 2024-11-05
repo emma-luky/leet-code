@@ -19,4 +19,5 @@ Is Subsequence
 Minimum Size Subarray Sum  
 Longest Substring Without Repeating Characters
 ## HashMap
+Ransom Note  
 Two Sum
