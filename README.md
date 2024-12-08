@@ -1,4 +1,5 @@
 # Completed Leet Code 150
+20/150
 ## Arrays
 Merge Sort Array  
 Remove Element  
@@ -20,6 +21,7 @@ Minimum Size Subarray Sum
 Longest Substring Without Repeating Characters
 ## HashMap
 Ransom Note  
-Two Sum
+Two Sum  
+Isomorphic String  
 ## Intervals
 Summary Ranges
