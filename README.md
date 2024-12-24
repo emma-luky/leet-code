@@ -1,5 +1,5 @@
 # Completed Leet Code 150
-20/150
+21/150
 ## Arrays
 Merge Sort Array  
 Remove Element  
@@ -24,4 +24,6 @@ Ransom Note
 Two Sum  
 Isomorphic String  
 ## Intervals
-Summary Ranges
+Summary Ranges  
+## Stack
+Valid Parentheses
