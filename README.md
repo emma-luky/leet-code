@@ -27,4 +27,6 @@ Isomorphic String
 Summary Ranges  
 ## Stack
 Valid Parentheses  
+## Linked List
 ## Binary Tree General
+Maximum Depth of Binary Tree  
