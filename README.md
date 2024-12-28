@@ -1,5 +1,5 @@
 # Completed Leet Code 150
-21/150
+22/150
 ## Arrays
 Merge Sort Array  
 Remove Element  
