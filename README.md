@@ -1,5 +1,5 @@
 # Completed Leet Code 150
-22/150
+23/150
 ## Arrays
 Merge Sort Array  
 Remove Element  
@@ -23,6 +23,7 @@ Longest Substring Without Repeating Characters
 Ransom Note  
 Two Sum  
 Isomorphic String  
+Word Pattern  
 ## Intervals
 Summary Ranges  
 ## Stack
