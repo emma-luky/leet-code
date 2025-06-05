@@ -1,5 +1,5 @@
 # Completed Leet Code 150
-23/150
+26/150
 ## Arrays
 Merge Sort Array  
 Remove Element  
@@ -13,6 +13,9 @@ Jump Game
 Jump Game II  
 H-Index  
 Insert Delete GetRandom O(1)
+Product of Array Except Self
+Gas Station
+Candy
 ## Two Pointers
 Valid Palindrome  
 Is Subsequence
