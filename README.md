@@ -1,6 +1,7 @@
-# Completed Leet Code 150
+# Completed Leet Code
+## Top Interview 150
 28/150
-## Arrays
+### Arrays
 Merge Sort Array  
 Remove Element  
 Remove Duplicates from Sorted Array  
@@ -17,22 +18,22 @@ Product of Array Except Self
 Gas Station
 Candy
 Roman to Integer
-## Two Pointers
+### Two Pointers
 Valid Palindrome  
 Is Subsequence
-## Sliding Window
+### Sliding Window
 Minimum Size Subarray Sum  
 Longest Substring Without Repeating Characters
-## HashMap
+### HashMap
 Ransom Note  
 Two Sum  
 Isomorphic String  
 Word Pattern  
-## Intervals
+### Intervals
 Summary Ranges  
-## Stack
+### Stack
 Valid Parentheses  
-## Linked List  
+### Linked List  
 Add Two Numbers
-## Binary Tree General
+### Binary Tree General
 Maximum Depth of Binary Tree  
