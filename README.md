@@ -1,6 +1,6 @@
 # Completed Leet Code
 ## Top Interview 150
-29/150
+30/150
 ### Arrays
 Merge Sort Array  
 Remove Element  
@@ -38,3 +38,5 @@ Valid Parentheses
 Add Two Numbers
 ### Binary Tree General
 Maximum Depth of Binary Tree  
+### Binary Search
+Median of Two Sorted Arrays  
