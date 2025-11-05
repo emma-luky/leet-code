@@ -1,4 +1,5 @@
 # Completed Leet Code
+Total completed: 31
 ## Top Interview 150
 30/150
 ### Arrays
@@ -40,3 +41,5 @@ Add Two Numbers
 Maximum Depth of Binary Tree  
 ### Binary Search
 Median of Two Sorted Arrays  
+## Additional Problems
+Next Greater Element
