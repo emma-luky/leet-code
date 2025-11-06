@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 31
+Total completed: 32
 ## Top Interview 150
-30/150
+31/150
 ### Arrays
 Merge Sort Array  
 Remove Element  
@@ -18,6 +18,7 @@ Insert Delete GetRandom O(1)
 Product of Array Except Self  
 Gas Station  
 Candy  
+Trapping Rain Water  
 Roman to Integer  
 Integer to Roman  
 ### Two Pointers
