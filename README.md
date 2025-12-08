@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 32
+Total completed: 34
 ## Top Interview 150
-31/150
+32/150
 ### Arrays
 Merge Sort Array  
 Remove Element  
@@ -40,7 +40,10 @@ Valid Parentheses
 Add Two Numbers
 ### Binary Tree General
 Maximum Depth of Binary Tree  
+### Backtracking
+Combination Sum
 ### Binary Search
 Median of Two Sorted Arrays  
 ## Additional Problems
 Next Greater Element
+Combination Sum II
