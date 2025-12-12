@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 34
+Total completed: 35
 ## Top Interview 150
-32/150
+33/150
 ### Arrays
 Merge Sort Array  
 Remove Element  
@@ -44,6 +44,7 @@ Maximum Depth of Binary Tree
 Combination Sum  
 Letter Combinations of a Phone Number  
 Permutations  
+Combinations  
 ### Binary Search
 Median of Two Sorted Arrays  
 ## Additional Problems
