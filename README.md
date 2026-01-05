@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 35
+Total completed: 36
 ## Top Interview 150
-33/150
+34/150
 ### Arrays
 Merge Sort Array  
 Remove Element  
@@ -20,7 +20,8 @@ Gas Station
 Candy  
 Trapping Rain Water  
 Roman to Integer  
-Integer to Roman  
+Integer to Roman 
+Length of Last Word  
 ### Two Pointers
 Valid Palindrome  
 Is Subsequence
