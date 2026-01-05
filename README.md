@@ -11,7 +11,7 @@ Majority Element
 Rotate Array  
 Best Time to Buy and Sell Stock  
 Best Time to Buy and Sell Stock II  
-Jump Game
+Jump Game  
 Jump Game II  
 H-Index  
 Insert Delete GetRandom O(1)  
@@ -20,14 +20,14 @@ Gas Station
 Candy  
 Trapping Rain Water  
 Roman to Integer  
-Integer to Roman 
+Integer to Roman  
 Length of Last Word  
 ### Two Pointers
 Valid Palindrome  
-Is Subsequence
+Is Subsequence  
 ### Sliding Window
 Minimum Size Subarray Sum  
-Longest Substring Without Repeating Characters
+Longest Substring Without Repeating Characters  
 ### HashMap
 Ransom Note  
 Two Sum  
@@ -38,7 +38,7 @@ Summary Ranges
 ### Stack
 Valid Parentheses  
 ### Linked List  
-Add Two Numbers
+Add Two Numbers  
 ### Binary Tree General
 Maximum Depth of Binary Tree  
 ### Backtracking
@@ -49,5 +49,5 @@ Combinations
 ### Binary Search
 Median of Two Sorted Arrays  
 ## Additional Problems
-Next Greater Element
-Combination Sum II
+Next Greater Element  
+Combination Sum II  
