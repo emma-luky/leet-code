@@ -1,8 +1,8 @@
 # Completed Leet Code
-Total completed: 36
+Total completed: 37
 ## Top Interview 150
-34/150
-### Arrays
+35/150
+### Arrays/Strings
 Merge Sort Array  
 Remove Element  
 Remove Duplicates from Sorted Array  
@@ -22,6 +22,7 @@ Trapping Rain Water
 Roman to Integer  
 Integer to Roman  
 Length of Last Word  
+Longest Common Prefix  
 ### Two Pointers
 Valid Palindrome  
 Is Subsequence  
