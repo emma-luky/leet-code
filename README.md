@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 38
+Total completed: 39
 ## Top Interview 150
-36/150
+37/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -35,6 +35,7 @@ Ransom Note
 Two Sum  
 Isomorphic String  
 Word Pattern  
+Valid Anagram  
 ### Intervals
 Summary Ranges  
 ### Stack
