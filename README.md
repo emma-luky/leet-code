@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 40
+Total completed: 41
 ## Top Interview 150
-38/150
+39/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -41,6 +41,7 @@ Valid Anagram
 Summary Ranges  
 ### Stack
 Valid Parentheses  
+Simplify Path  
 ### Linked List  
 Add Two Numbers  
 ### Binary Tree General
