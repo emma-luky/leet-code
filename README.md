@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 39
+Total completed: 40
 ## Top Interview 150
-37/150
+38/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -24,6 +24,7 @@ Integer to Roman
 Length of Last Word  
 Longest Common Prefix  
 Reeverse Words in a String  
+Find the Index of the First Occurance in a String  
 ### Two Pointers
 Valid Palindrome  
 Is Subsequence  
