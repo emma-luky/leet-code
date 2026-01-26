@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 2
+Total completed: 42
 ## Top Interview 150
 40/150
 ### Arrays/Strings
