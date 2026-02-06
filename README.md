@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 43
+Total completed: 44
 ## Top Interview 150
-40/150
+41/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -37,6 +37,7 @@ Two Sum
 Isomorphic String  
 Word Pattern  
 Valid Anagram  
+Contains Duplicate II  
 ### Intervals
 Summary Ranges  
 ### Stack
