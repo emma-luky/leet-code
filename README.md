@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 42
+Total completed: 43
 ## Top Interview 150
 40/150
 ### Arrays/Strings
@@ -57,3 +57,4 @@ Median of Two Sorted Arrays
 ## Additional Problems
 Next Greater Element  
 Combination Sum II  
+Contains Duplicate  
