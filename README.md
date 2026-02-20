@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 46
+Total completed: 47
 ## Top Interview 150
-43/150
+44/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -30,6 +30,7 @@ Valid Palindrome
 Is Subsequence  
 Two Sum II - Input Array Is Sorted  
 Container With Most Water  
+3Sum  
 ### Sliding Window
 Minimum Size Subarray Sum  
 Longest Substring Without Repeating Characters  
