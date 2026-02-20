@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 44
+Total completed: 45
 ## Top Interview 150
-41/150
+42/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -28,6 +28,7 @@ Find the Index of the First Occurance in a String
 ### Two Pointers
 Valid Palindrome  
 Is Subsequence  
+Two Sum II - Input Array Is Sorted  
 ### Sliding Window
 Minimum Size Subarray Sum  
 Longest Substring Without Repeating Characters  
