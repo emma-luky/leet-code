@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 48
+Total completed: 49
 ## Top Interview 150
-45/150
+46/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -56,6 +56,7 @@ Combination Sum
 Letter Combinations of a Phone Number  
 Permutations  
 Combinations  
+Generate Parenthesis  
 ### Divide and Conquer
 Convert Sorted Array to Binary Search Tree  
 ### Binary Search
