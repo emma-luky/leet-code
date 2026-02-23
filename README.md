@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 50
+Total completed: 54
 ## Top Interview 150
 47/150
 ### Arrays/Strings
@@ -67,3 +67,7 @@ Median of Two Sorted Arrays
 Next Greater Element  
 Combination Sum II  
 Contains Duplicate  
+Find Common Characters  
+Split a String in Balanced Strings  
+Rotate String  
+Majority Element II
