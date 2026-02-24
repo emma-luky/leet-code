@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 54
+Total completed: 56
 ## Top Interview 150
 47/150
 ### Arrays/Strings
@@ -70,4 +70,6 @@ Contains Duplicate
 Find Common Characters  
 Split a String in Balanced Strings  
 Rotate String  
-Majority Element II
+Majority Element II  
+4 Sum  
+Daily Temperatures  
