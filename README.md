@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 57
+Total completed: 59
 ## Top Interview 150
 47/150
 ### Arrays/Strings
@@ -74,3 +74,5 @@ Majority Element II
 4 Sum  
 Daily Temperatures  
 Positions of Large Groups  
+All Elements in Two Binary Search Trees  
+Element Appearing More Than 25% In Sorted Array  
