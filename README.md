@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 59
+Total completed: 60
 ## Top Interview 150
 47/150
 ### Arrays/Strings
@@ -76,3 +76,4 @@ Daily Temperatures
 Positions of Large Groups  
 All Elements in Two Binary Search Trees  
 Element Appearing More Than 25% In Sorted Array  
+Transpose Matrix  
