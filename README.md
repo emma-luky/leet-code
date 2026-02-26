@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 60
+Total completed: 61
 ## Top Interview 150
 47/150
 ### Arrays/Strings
@@ -71,6 +71,7 @@ Find Common Characters
 Split a String in Balanced Strings  
 Rotate String  
 Majority Element II  
+Snake in Matrix  
 4 Sum  
 Daily Temperatures  
 Positions of Large Groups  
