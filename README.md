@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 62
+Total completed: 63
 ## Top Interview 150
-47/150
+48/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -49,6 +49,7 @@ Simplify Path
 Min Stack  
 ### Linked List  
 Add Two Numbers  
+Merge Twos Sorted Lists  
 ### Binary Tree General
 Maximum Depth of Binary Tree  
 ### Backtracking
