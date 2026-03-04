@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 64
+Total completed: 66
 ## Top Interview 150
-49/150
+51/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
