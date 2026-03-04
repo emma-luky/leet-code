@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 63
+Total completed: 64
 ## Top Interview 150
-48/150
+49/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -46,7 +46,8 @@ Summary Ranges
 ### Stack
 Valid Parentheses  
 Simplify Path  
-Min Stack  
+Min Stack 
+Basic Calculator  
 ### Linked List  
 Add Two Numbers  
 Merge Twos Sorted Lists  
