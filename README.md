@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 67
+Total completed: 68
 ## Top Interview 150
-51/150
+52/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -49,6 +49,7 @@ Simplify Path
 Min Stack 
 Basic Calculator  
 ### Linked List  
+Linked List Cycle
 Add Two Numbers  
 Merge Twos Sorted Lists  
 ### Binary Tree General
