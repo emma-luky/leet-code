@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 68
+Total completed: 69
 ## Top Interview 150
-52/150
+53/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -66,6 +66,7 @@ Convert Sorted Array to Binary Search Tree
 Minimim Absolute Difference in BST
 ### Binary Search
 Median of Two Sorted Arrays  
+Search Insert Position  
 ## Additional Problems
 Next Greater Element  
 Combination Sum II  
