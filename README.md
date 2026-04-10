@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 71
+Total completed: 72
 ## Top Interview 150
-55/150
+56/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -56,6 +56,8 @@ Merge Twos Sorted Lists
 ### Binary Tree General
 Maximum Depth of Binary Tree  
 Same Tree  
+### Graph General
+Number of Islands  
 ### Backtracking
 Combination Sum  
 Letter Combinations of a Phone Number  
