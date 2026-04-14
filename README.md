@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 73
+Total completed: 74
 ## Top Interview 150
 57/150
 ### Arrays/Strings
@@ -88,4 +88,5 @@ Element Appearing More Than 25% In Sorted Array
 Transpose Matrix  
 Snake in Matrix  
 Toeplitz Matrix  
-Guess Number Higher or Lower
+Guess Number Higher or Lower  
+Minimum Depth of Binary Tree  
