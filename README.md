@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 74
+Total completed: 75
 ## Top Interview 150
-58/150
+59/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -58,6 +58,7 @@ Maximum Depth of Binary Tree
 Same Tree  
 Symmetric Tree  
 Path Sum  
+Invert Binary Tree  
 ### Graph General
 Number of Islands  
 ### Backtracking
