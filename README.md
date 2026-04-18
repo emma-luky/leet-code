@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 75
+Total completed: 76
 ## Top Interview 150
-59/150
+60/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -59,6 +59,7 @@ Same Tree
 Symmetric Tree  
 Path Sum  
 Invert Binary Tree  
+Construct binary Tree from preorder and Inorder Traversal  
 ### Graph General
 Number of Islands  
 ### Backtracking
