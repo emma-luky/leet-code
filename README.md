@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 79
+Total completed: 80
 ## Top Interview 150
 61/150
 ### Arrays/Strings
@@ -94,4 +94,5 @@ Snake in Matrix
 Toeplitz Matrix  
 Sum of Left Leaves  
 Guess Number Higher or Lower  
+Maximum Depth Of N-ary Tree  
 Minimum Depth of Binary Tree  
