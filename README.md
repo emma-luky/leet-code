@@ -1,5 +1,5 @@
 # Completed Leet Code
-Total completed: 80
+Total completed: 82
 ## Top Interview 150
 61/150
 ### Arrays/Strings
@@ -96,3 +96,5 @@ Sum of Left Leaves
 Guess Number Higher or Lower  
 Maximum Depth Of N-ary Tree  
 Minimum Depth of Binary Tree  
+Hamming Distance  
+Nim Game  
