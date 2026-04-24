@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 84
+Total completed: 85
 ## Top Interview 150
-63/150
+65/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -63,6 +63,8 @@ Construct Binary Tree from Preorder and Inorder Traversal
 Construct Binary Tree from Inorder and Postorder Traversal  
 Count Complete Tree Nodes  
 Sum Root to Leaf Numbers  
+### Binary Tree BFS
+Average of Levels in Binary Tree  
 ### Graph General
 Number of Islands  
 ### Backtracking
