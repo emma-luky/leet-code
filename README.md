@@ -80,6 +80,8 @@ Minimim Absolute Difference in BST
 ### Binary Search
 Median of Two Sorted Arrays  
 Search Insert Position  
+### Bit Manipulation
+Reverse Bits  
 ## Additional Problems
 Next Greater Element  
 Combination Sum II  
