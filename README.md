@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 86
+Total completed: 87
 ## Top Interview 150
-66/150
+67/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -65,6 +65,7 @@ Count Complete Tree Nodes
 Sum Root to Leaf Numbers  
 ### Binary Tree BFS
 Average of Levels in Binary Tree  
+Binary Tree Level Order Traversal
 ### Graph General
 Number of Islands  
 ### Backtracking
