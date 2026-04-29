@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 87
+Total completed: 88
 ## Top Interview 150
-67/150
+68/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -63,9 +63,15 @@ Construct Binary Tree from Preorder and Inorder Traversal
 Construct Binary Tree from Inorder and Postorder Traversal  
 Count Complete Tree Nodes  
 Sum Root to Leaf Numbers  
+### Binary Search Tree
+Minimim Absolute Difference in BST
+### Binary Search
+Median of Two Sorted Arrays  
+Search Insert Position 
 ### Binary Tree BFS
 Average of Levels in Binary Tree  
-Binary Tree Level Order Traversal
+Binary Tree Level Order Traversal  
+Binary Tree Right Side View  
 ### Graph General
 Number of Islands  
 ### Backtracking
@@ -75,12 +81,7 @@ Permutations
 Combinations  
 Generate Parenthesis  
 ### Divide and Conquer
-Convert Sorted Array to Binary Search Tree  
-### Binary Search Tree
-Minimim Absolute Difference in BST
-### Binary Search
-Median of Two Sorted Arrays  
-Search Insert Position  
+Convert Sorted Array to Binary Search Tree   
 ### Bit Manipulation
 Reverse Bits  
 ## Additional Problems
