@@ -1,7 +1,7 @@
 # Completed Leet Code
-Total completed: 88
+Total completed: 89
 ## Top Interview 150
-68/150
+69/150
 ### Arrays/Strings
 Merge Sort Array  
 Remove Element  
@@ -72,6 +72,7 @@ Search Insert Position
 Average of Levels in Binary Tree  
 Binary Tree Level Order Traversal  
 Binary Tree Right Side View  
+Binary Tree Zig-Zag Level Order Traversal  
 ### Graph General
 Number of Islands  
 ### Backtracking
